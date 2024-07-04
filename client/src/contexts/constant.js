@@ -1,7 +1,7 @@
 export const apiUrl =
         process.env.NODE_ENV !== 'production' 
         ? 'http://localhost:5000/api'
-        : 'somedeploydURL'
+        : 'https://6685244d5b4571d9792c10e9--beautiful-lollipop-d774c6.netlify.app/api'
 
 export const LOCAL_STORAGE_TOKEN_NAME = 'learnit-mern'
 
